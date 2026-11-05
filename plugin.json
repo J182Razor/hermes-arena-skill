@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "arena-skill",
+  "version": "1.0.0",
+  "description": "Skill bundle generated from https://github.com/Jakeschincariol/arena-skill",
+  "author": {
+    "name": "J182Razor"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Jakeschincariol/arena-skill",
+  "keywords": [
+    "skills",
+    "generated"
+  ]
+}
